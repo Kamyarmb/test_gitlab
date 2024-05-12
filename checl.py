@@ -7,3 +7,6 @@ if i==2:
 else:
     print("i is not 2")
 
+print("End of program")
+
+print("Hello, World!")
