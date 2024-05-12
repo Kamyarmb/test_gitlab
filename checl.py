@@ -7,3 +7,4 @@ if i==2:
 else:
     print("i is not 2")
 
+i =4
